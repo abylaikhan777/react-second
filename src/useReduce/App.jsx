@@ -67,6 +67,7 @@ export default function App() {
     date: "",
     priority: "medium",
   });
+  
 
   const handleChange = (e) => {
     const { name, value } = e.target;
