@@ -7,6 +7,7 @@ export default function App() {
                 <h1 className="text-amber-600  ">dasdf</h1>
                 <pd>lsAD;FLAS;DLFK</pd>
             </header>
+            
             <main className="grid grid-cols-3 ">
                 <div className="w-90 h-90">
                     <h1>fly.ru</h1>
